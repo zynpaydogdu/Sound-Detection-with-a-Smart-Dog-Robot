@@ -24,9 +24,6 @@ FFmpeg
 Keras
 
 📁 Core Functions
-python
-Kopyala
-Düzenle
 # Convert audio files
 convert_all_m4a_in_folder()
 
