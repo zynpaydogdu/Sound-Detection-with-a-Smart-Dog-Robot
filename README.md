@@ -46,5 +46,6 @@ Label	Meaning
 2	Started Searching
 3	Finished Searching
 4	Stopped
+
 🎙️ Note
 For real-time voice recognition, WO Mic must be connected to both your computer and your phone. Otherwise, the system may not function properly. And also this project needs labeled audio data to train the models. 
